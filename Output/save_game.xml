@@ -4,6 +4,8 @@
 	<window />
 	<textures />
 	<audio />
+	<:anonymous />
+	<map />
 	<scene />
 	<entitymanager />
 	<renderer>
